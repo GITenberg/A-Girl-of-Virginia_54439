@@ -1,0 +1,24 @@
+_repo: A-Girl-of-Virginia_54439
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Grunwald, Charles
+    alias: Grünwald, Ch. (Charles)
+    gutenberg_agent_id: '36252'
+    url: http://www.gutenberg.org/2009/agents/36252
+  - agent_name: Thruston, Lucy M.
+    gutenberg_agent_id: '47870'
+    url: http://www.gutenberg.org/2009/agents/47870
+description: ''
+gutenberg_issued: '2017-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Girl of Virginia
+url: http://www.gutenberg.org/ebooks/54439
